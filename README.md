@@ -1,6 +1,6 @@
 # 🚁 DroneCone Website
 
-This repository contains **DroneCone's official webpage**, built with modern web technologies for a fast, interactive, and visually stunning experience.
+This repository contains **DroneCone's official website**, built with modern web technologies for a fast, interactive, and visually stunning experience.
 
 Developed using **Next.js** with **TypeScript**, styled with **Tailwind CSS**, and powered by **Framer Motion** for smooth animations.
 
