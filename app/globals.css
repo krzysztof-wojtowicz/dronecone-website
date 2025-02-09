@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply text-[#242424];
+}
+
+.nav-link {
+  @apply hover:text-accent hover:underline cursor-pointer transition duration-300;
+}
+
+h1 {
+  @apply text-9xl tracking-tight;
+}
+
+h2 {
+  @apply text-6xl tracking-tight;
+}
+
+h3 {
+  @apply text-3xl;
+}
+
+h4 {
+  @apply text-2xl;
+}
+
+.btn-primary {
+  @apply text-accent rounded-md border-accent border-2 px-3 py-2 cursor-pointer bg-white;
+}
+
+.portfolio-card {
+  @apply w-full aspect-video bg-stone-100 rounded-md overflow-hidden relative;
+}
+
+.order-card {
+  @apply bg-white rounded-xl shadow-[0_0px_50px_0px_rgba(0,0,0,0.1)] px-5 lg:px-10 py-6 flex flex-col items-center gap-4;
+}
+
+.form-field {
+  @apply px-3 py-1 focus:outline-none border-b-2 border-stone-300;
+}
