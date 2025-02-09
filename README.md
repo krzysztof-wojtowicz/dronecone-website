@@ -1,4 +1,4 @@
-# 🚁 DroneCone Webpage
+# 🚁 DroneCone Website
 
 This repository contains **DroneCone's official webpage**, built with modern web technologies for a fast, interactive, and visually stunning experience.
 
